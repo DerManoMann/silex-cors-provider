@@ -2,7 +2,7 @@
 
 namespace JDesrosiers\Silex\Provider;
 
-use Pimple\Container;
+use Pimple as Container;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
